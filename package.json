@@ -4,8 +4,23 @@
   "description": "Formation skool",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "nodemon index.js",
+    "test": "mocha spec/*.spec.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^15.0.3",
+    "hapi-swagger": "^7.2.0",
+    "inert": "^4.0.2",
+    "joi": "^9.0.4",
+    "vision": "^4.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "nodemon": "^1.10.2",
+    "sinon": "^1.17.6",
+    "sinon-chai": "^2.8.0"
+  }
 }
