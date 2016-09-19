@@ -1,0 +1,14 @@
+{"name":"logger","hostname":"MBP-de-Simon","pid":10730,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:31:13.752Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10766,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:33:16.849Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10790,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:34:14.247Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10843,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:41:55.765Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10843,"level":30,"id":"1474296149510:MBP-de-Simon:10843:ita5ubbv:10000","method":"get","path":"/pokemons","msg":"","time":"2016-09-19T14:42:29.516Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10918,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:45:22.801Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10918,"level":30,"id":"1474296327256:MBP-de-Simon:10918:ita5yr2z:10000","method":"get","path":"/pokemons","msg":"","time":"2016-09-19T14:45:27.260Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10929,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:46:17.661Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10929,"level":30,"id":"1474296383080:MBP-de-Simon:10929:ita5zxeq:10000","method":"get","path":"/pokemons","msg":"","time":"2016-09-19T14:46:23.084Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10929,"level":30,"statusCode":200,"msg":"","time":"2016-09-19T14:46:23.090Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10953,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:46:49.895Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10953,"level":30,"id":"1474296413555:MBP-de-Simon:10953:ita60ma3:10000","method":"get","path":"/pokemons","msg":"","time":"2016-09-19T14:46:53.559Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10953,"level":30,"statusCode":200,"id":"1474296413555:MBP-de-Simon:10953:ita60ma3:10000","msg":"","time":"2016-09-19T14:46:53.564Z","v":0}
+{"name":"logger","hostname":"MBP-de-Simon","pid":10998,"level":30,"msg":"server listening on port 3000","time":"2016-09-19T14:51:54.229Z","v":0}
